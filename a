@@ -1,0 +1,6 @@
+git fetch --depth 1  origin	e462ac7d0cf14c6490d4d58a1e36038c29e60914   && git checkout  FETCH_HEAD && git reset --soft FETCH_HEAD
+
+git fetch  origin   24a9e9bb41faf4a62381197a34ac4ee9db1cbe67   && git checkout  FETCH_HEAD && git reset --hard FETCH_HEAD
+git fetch  origin   4603d0793f6a6c6e1005ee1ad1deeb17e08de86c   && git checkout  FETCH_HEAD && git reset --hard FETCH_HEAD
+git fetch  origin   7ee82c13b147080358c72d1d21347b89cb1ed623   && git checkout  FETCH_HEAD && git reset --hard FETCH_HEAD  
+git fetch  origin	164763b0301e97cb9a1510f159c74d0b8ed0df07   && git checkout  FETCH_HEAD && git reset --hard FETCH_HEAD
