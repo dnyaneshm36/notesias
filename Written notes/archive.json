@@ -1,0 +1,90 @@
+{
+  "appVersion" : "1.4.30",
+  "appBuild" : "194",
+  "packageFormatVersion" : "1.19",
+  "version" : 1,
+  "type" : "dataExport",
+  "createdAt" : "2025-12-11T19:49:48Z",
+  "items" : [
+    {
+      "subtype" : 0,
+      "id" : "26646DD94861E3971FD577705A3F18A4",
+      "parentId" : "",
+      "name" : "Model book",
+      "isDrawing" : true,
+      "relativePath" : "\/Model book.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "2D95CDC8A5054E3FBD7C1FAD73E55F56",
+      "parentId" : "",
+      "name" : "Notes on 23\/08\/24",
+      "isDrawing" : true,
+      "relativePath" : "\/Notes on 23-08-24.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "8F56C142AF5643028147E52BFDA9ACA3",
+      "parentId" : "",
+      "name" : "Economics",
+      "isDrawing" : true,
+      "relativePath" : "\/Economics.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "0ECFCEB751316E13F7211F7E52CF5BFC",
+      "parentId" : "",
+      "name" : "Society",
+      "isDrawing" : true,
+      "relativePath" : "\/Society.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "3548726748A4155A4D97E75E94C98FE5",
+      "parentId" : "",
+      "name" : "International relations and social justice",
+      "isDrawing" : true,
+      "relativePath" : "\/International relations and social justice.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "6220AEDDF44B462187BCC99D35AE27B5",
+      "parentId" : "",
+      "name" : "short mordern history.-rotated",
+      "isDrawing" : true,
+      "relativePath" : "\/short mordern history.-rotated.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "8C63DD400346B63123357CA42279C8E8",
+      "parentId" : "",
+      "name" : "Geography",
+      "isDrawing" : true,
+      "relativePath" : "\/Geography.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "0526A522BF4E490FABF76B433A4C80D9",
+      "parentId" : "",
+      "name" : "Ethics",
+      "isDrawing" : true,
+      "relativePath" : "\/Ethics.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "6F6A05B4826F8DA5A1C9543CA8F47ADA",
+      "parentId" : "",
+      "name" : "Answers writing pratics",
+      "isDrawing" : true,
+      "relativePath" : "\/Answers writing pratics.pdf"
+    },
+    {
+      "subtype" : 0,
+      "id" : "0EAAD9D9CF7B18E3336AF1BB0FA5D983",
+      "parentId" : "",
+      "name" : "Rough.",
+      "isDrawing" : true,
+      "relativePath" : "\/Rough..pdf"
+    }
+  ]
+}
